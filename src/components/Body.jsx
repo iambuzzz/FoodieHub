@@ -4,7 +4,7 @@ import Shimmer from "./Shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../utils/useOnlineStatus";
 import UserContext from "../utils/UserContext";
-import mockData from "../utils/mockData.json";
+import mockData from "../utils/mockdata.json";
 
 // Search Icon SVG Component (remains the same)
 const SearchIcon = () => (
