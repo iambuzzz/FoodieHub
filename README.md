@@ -14,8 +14,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Experience FoodieHub Live on Vercel](https://foodiehub-app.vercel.app)**  
-*(Replace with your deployed Vercel URL once deployed)*
+🔗 **[Experience FoodieHub Live on Vercel](https://foodie-fiybtghca-ambujjais1-6630s-projects.vercel.app/)**  
 
 ---
 
